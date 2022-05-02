@@ -1,0 +1,2 @@
+# kubernets
+POC -  kubernets localhost
